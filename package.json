@@ -1,6 +1,6 @@
 {
   "name": "react-blanket",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimalistic Blanket in React, it just works",
   "main": "dist/es5/index.js",
   "repository": "git@github.com:zzarcon/react-blanket",
