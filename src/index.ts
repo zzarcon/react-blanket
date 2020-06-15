@@ -1,0 +1,1 @@
+export {Blanket, BlanketProps} from './blanket';
